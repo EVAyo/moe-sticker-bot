@@ -1,6 +1,9 @@
-__pycache__
-line_sticker
-tg_sticker
 .vscode
-config.ini
 .env
+.venv
+__debug*
+*_data/
+
+.DS_Store
+deploy.yaml
+tmp/
